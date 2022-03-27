@@ -122,6 +122,7 @@ body {
 }
 
 .toggle-all + label {
+	cursor: pointer;
 	width: 60px;
 	height: 34px;
 	font-size: 0;
